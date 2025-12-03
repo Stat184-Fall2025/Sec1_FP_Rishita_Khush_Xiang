@@ -18,7 +18,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
 
 ## Current Plan
 
-####GOALS:
+GOALS:
 
 1. We want to be able to use R to find patterns, trends, relationships over time, etc. and make statistical observations from any given data.
 
@@ -28,7 +28,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
 
 4. We want to refine our teamwork and leadership skills by working together efficiently.
 
-####NEEDS:
+NEEDS:
 
 1. RStudio
    
@@ -42,7 +42,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
    
 6. Necessary packages in R
 
-####STEPS:
+STEPS:
 
 1. Browse to find potential datasets we could use.
 
@@ -60,7 +60,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
 
 8. Work together to create the repo for our project.
 
-#####MEMBER 1:
+MEMBER 1:
 
 1. Load dataset and necessary packages into R.
 
@@ -68,7 +68,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
 
 3. Write a project report detailing what was done and how it was accomplished.
 
-#####MEMBER 2:
+MEMBER 2:
 
 1. Perform data analysis and get summary of data.
 
@@ -76,7 +76,7 @@ Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff
 
 3. Write a project report detailing what was done and how it was accomplished.
 
-#####MEMBER 3:
+MEMBER 3:
 
 1. Create a QMD file that includes all visualizations and any necessary information about the project.
 
