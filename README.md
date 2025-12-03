@@ -12,11 +12,75 @@ This is optional but highly recommended. You'll include one interesting insight 
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+Spotify Songs: https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md 
+
+Authors:  Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff 
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+GOALS:
+
+We want to be able to use R to find patterns, trends, relationships over time, etc. and make statistical observations from any given data.
+
+We want to be able to apply the knowledge gained throughout this course to use real-life data and create visualizations.
+
+We want to develop an organized and well-formatted project.
+
+We want to refine our teamwork and leadership skills by working together efficiently.
+
+NEEDS:
+
+1. RStudio
+   
+2. Github
+   
+3. Dataset that we select
+
+4. Knowledge and skills gained from this course
+
+5. Group chat for clear communication
+   
+6. Necessary packages in R
+
+STEPS:
+
+Browse to find potential datasets we could use.
+
+Pick the final dataset by voting on it.
+
+Observe patterns, trends, and relationships between variables.
+
+Brainstorm ideas of possible visualizations, inferences, etc.
+
+Pick final ideas for project by voting on it.
+
+Assign roles to each person.
+
+Complete our assigned goals.
+
+Work together to create the repo for our project.
+
+MEMBER 1:
+
+Load dataset and necessary packages into R.
+
+Clean the data until it can be used further.
+
+Write a project report detailing what was done and how it was accomplished.
+
+MEMBER 2:
+
+Perform data analysis and get summary of data.
+
+Use R to create necessary visualizations such as well-formatted tables, graphs, charts, etc.
+
+Write a project report detailing what was done and how it was accomplished.
+
+MEMBER 3:
+
+Create a QMD file that includes all visualizations and any necessary information about the project.
+
+Write a project report detailing what was done and how it was accomplished.
 
 ## Repo Structure
 
@@ -25,4 +89,4 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Khush Chutani, Rishita Shukla, Xiang Lin
