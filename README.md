@@ -1,14 +1,21 @@
-# Project Title
+# SPOTIFY SONGS 
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+Music streaming platforms such as Spotify generate extensive datasets that explore various audio features such as danceability, tempo, valence, etc. This project analyzes Spotify song data to explore how audio features vary across artists and genres and observes any relationships between them. By combining descriptive statistics and visual analysis, this project demonstrates how data science techniques can be applied to understand patterns in modern music.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This exploratory data analysis answers these three research questions: 
+1. Which artists produce the highest-energy music on average, and how does energy relate to loudness?
+2. Is there a relationship between a song’s emotional positivity (valence) and its danceability?
+3. How does tempo vary across different Spotify playlist genres?
 
-### Interesting Insight (Optional)
+### Interesting Insight 
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+Do certain songs make you extremely happy, but others do the exact oppposite? This can be explained by the valence of the song. 
+
+Valence of a song: The word valence is most commonly used in chemistry, but it is also linked to music. Its defined as the musical positiveness of a song and is measured from 0 to 1. 
+
+In this project, we explore how valence is related to the danceability of a song and check whether happier songs are more danceable. 
 
 ## Data Sources and Acknowledgements
 
