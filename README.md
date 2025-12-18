@@ -1,4 +1,4 @@
-# SPOTIFY SONGS 
+# EXPLORATORY ANALYSIS OF SPOTIFY SONGS 
 
 Music streaming platforms such as Spotify generate extensive datasets that explore various audio features such as danceability, tempo, valence, etc. This project analyzes Spotify song data to explore how audio features vary across artists and genres and observes any relationships between them. By combining descriptive statistics and visual analysis, this project demonstrates how data science techniques can be applied to understand patterns in modern music.
 
@@ -91,8 +91,11 @@ MEMBER 3:
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
+Files included: 
 
+1. Work-in-Progress presentation
+
+2. QMD file 
 
 ## Authors
 
