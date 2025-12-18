@@ -95,7 +95,9 @@ Files included:
 
 1. Work-in-Progress presentation
 
-2. QMD file 
+2. QMD file
+   
+3. PDF file 
 
 ## Authors
 
